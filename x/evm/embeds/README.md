@@ -98,3 +98,5 @@ import '@nibiruchain/solidity/contracts/IFunToken.sol';
 ## Hacking
 
 [Hacking - Nibiru EVM Solidity Embeds](./HACKING.md)
+
+<!-- Auto-update: 2025-10-16T12:33:27.233444 -->
